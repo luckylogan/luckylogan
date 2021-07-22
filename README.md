@@ -20,18 +20,18 @@
 <br/>
 
 <a href="https://github.com/luckylogan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luckylogan&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckylogan&theme=buefy&layout=compact" />
+
 </a>
 
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
+<!-- <p align="center">
 <a href=""><img alt="Website" src=""></a>
 <a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src=""></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src=""></a>
+<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src=""></a> -->
+
 <a href="mailto:loganjamesy@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-loganjamesy@outlook.com-blue?style=flat-square&logo=outlook"></a>
 </p>
 
