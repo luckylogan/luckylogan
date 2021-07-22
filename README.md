@@ -1,4 +1,4 @@
-<img src="">
+
 
 <h2> Hey there! I'm logan.</h2>
 
@@ -8,7 +8,7 @@
 - 🎓 &nbsp; Current stuying: CS50, Odin Project, Scrimba, freecodecamp
 
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Skills</h3>
 
 
 - 🌐 &nbsp;
