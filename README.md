@@ -43,6 +43,9 @@
 <a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src=""></a> -->
 
 <a href="mailto:loganjamesy@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-loganjamesy@outlook.com-blue?style=flat-square&logo=outlook"></a>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/luckylogan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/luckylogan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/luckylogan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/shirikin)  
+
 </p>
 
 ⭐️ From [luckylogan](https://github.com/luckylogan)
