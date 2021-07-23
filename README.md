@@ -4,6 +4,8 @@
 
 
 
+<br>
+
 
 <h3> 🛠 &nbsp;Skills</h3>
 
@@ -13,10 +15,15 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
  
-
 <br/>
 
+<br>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luckylogan)](https://github.com/luckylogan/github-readme-stats)
+
 <a href="https://github.com/luckylogan">
+  
+</br>
 
 </a>
 
