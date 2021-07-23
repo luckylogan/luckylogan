@@ -5,8 +5,8 @@
 - 🔭 I’m currently working on Scrimba, TOP, freecodecamp. 
 - 🌱 I’m currently learning javascript, python. 
 - 👯 I’m looking to collaborate on open source projects. 
-- 🤔 I’m looking for help with finding mentors. 
-- ⚡ Fun fact: I lived in thailand for 5 months accumulating 5 professional muay thai fights. 
+- 🤔 I’m looking to work with others and build my community. 
+- ⚡ Fun fact: I used to be a professional martial artist. 
 
 
 
