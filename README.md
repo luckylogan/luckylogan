@@ -33,6 +33,14 @@
 
 </a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckylogan)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=luckylogan&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=luckylogan)  
+
+![Profile views](https://gpvc.arturio.dev/luckylogan)  
+
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
