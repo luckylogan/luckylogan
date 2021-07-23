@@ -2,10 +2,7 @@
 
 <h2> Hey there! I'm logan.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Personal interst in small scale sustainable agriculture and building tools to help.
-- 🎓 &nbsp; Current stuying: CS50, Odin Project, Scrimba, freecodecamp
 
 
 <h3> 🛠 &nbsp;Skills</h3>
